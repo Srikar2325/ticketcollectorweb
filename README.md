@@ -23,6 +23,7 @@ This project simulates a ticket validation system for events or venues. It allow
 - **Concepts:** OOP (Object-Oriented Programming) applied in JavaScript
 - **Web Development:** Responsive design and client-side validation
 - **Computer Networks:** Knowledge applied to simulate real-time entry system
+- link: https://srikar2325.github.io/ticketcollectorweb/
 
 ---
 
@@ -38,6 +39,5 @@ This project simulates a ticket validation system for events or venues. It allow
 
 ## **Installation & Usage**
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ticket-collector-website.git
-
+   ```bashit
+   https://srikar2325.github.io/ticketcollectorweb/
